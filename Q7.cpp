@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	int a,b,t;
-    cout<<"Enter two number a and b:- ";
+        cout<<"Enter two number a and b:- ";
 	cin>>a>>b;
 	cout<<"_______after interchange number________"<<endl<<"\t\ta="<<a<<"\tb="<<b;
 	t=a;
